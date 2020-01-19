@@ -1,0 +1,1 @@
+1. getRootWindow节点时，需要设置canretrieve为true,而且是在xml里配置的

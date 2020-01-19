@@ -1,0 +1,1542 @@
+{
+  "actionList": [
+    {
+      "id": 4
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 64
+    },
+    {
+      "id": 16908342
+    }
+  ],
+  "children": [
+    {
+      "actionList": [
+        {
+          "id": 1
+        },
+        {
+          "id": 4
+        },
+        {
+          "id": 8
+        },
+        {
+          "id": 16
+        },
+        {
+          "id": 64
+        },
+        {
+          "id": 16908342
+        }
+      ],
+      "children": [
+        {
+          "actionList": [
+            {
+              "id": 2
+            },
+            {
+              "id": 4
+            },
+            {
+              "id": 8
+            },
+            {
+              "id": 16
+            },
+            {
+              "id": 32
+            },
+            {
+              "id": 64
+            },
+            {
+              "id": 8192
+            },
+            {
+              "id": 16908342
+            }
+          ],
+          "children": [
+            {
+              "actionList": [
+                {
+                  "id": 4
+                },
+                {
+                  "id": 8
+                },
+                {
+                  "id": 64
+                },
+                {
+                  "id": 16908342
+                }
+              ],
+              "children": [
+                {
+                  "actionList": [
+                    {
+                      "id": 1
+                    },
+                    {
+                      "id": 4
+                    },
+                    {
+                      "id": 8
+                    },
+                    {
+                      "id": 64
+                    },
+                    {
+                      "id": 16908342
+                    }
+                  ],
+                  "children": [
+                    {
+                      "actionList": [
+                        {
+                          "id": 4
+                        },
+                        {
+                          "id": 8
+                        },
+                        {
+                          "id": 64
+                        },
+                        {
+                          "id": 256
+                        },
+                        {
+                          "id": 512
+                        },
+                        {
+                          "id": 131072
+                        },
+                        {
+                          "id": 16908342
+                        }
+                      ],
+                      "children": [],
+                      "className": "android.widget.TextView",
+                      "rect": {
+                        "bottom": 197,
+                        "empty": false,
+                        "left": 950,
+                        "right": 1042,
+                        "top": 96
+                      },
+                      "text": "炫明发表了说说",
+                      "windowId": 58971
+                    },
+                    {
+                      "actionList": [
+                        {
+                          "id": 1
+                        },
+                        {
+                          "id": 4
+                        },
+                        {
+                          "id": 8
+                        },
+                        {
+                          "id": 16
+                        },
+                        {
+                          "id": 64
+                        },
+                        {
+                          "id": 16908342
+                        }
+                      ],
+                      "children": [
+                        {
+                          "actionList": [
+                            {
+                              "id": 1
+                            },
+                            {
+                              "id": 4
+                            },
+                            {
+                              "id": 8
+                            },
+                            {
+                              "id": 64
+                            },
+                            {
+                              "id": 16908342
+                            }
+                          ],
+                          "children": [
+                            {
+                              "actionList": [
+                                {
+                                  "id": 4
+                                },
+                                {
+                                  "id": 8
+                                },
+                                {
+                                  "id": 64
+                                },
+                                {
+                                  "id": 16908342
+                                }
+                              ],
+                              "children": [],
+                              "className": "android.widget.TextView",
+                              "rect": {
+                                "$ref": "$.children[0].children[0].children[0].children[0].children[0].rect"
+                              },
+                              "windowId": 58971
+                            }
+                          ],
+                          "className": "android.widget.RelativeLayout",
+                          "rect": {
+                            "$ref": "$.children[0].children[0].children[0].children[0].children[0].rect"
+                          },
+                          "windowId": 58971
+                        },
+                        {
+                          "actionList": [
+                            {
+                              "id": 4
+                            },
+                            {
+                              "id": 8
+                            },
+                            {
+                              "id": 64
+                            },
+                            {
+                              "id": 256
+                            },
+                            {
+                              "id": 512
+                            },
+                            {
+                              "id": 131072
+                            },
+                            {
+                              "id": 16908342
+                            }
+                          ],
+                          "children": [],
+                          "className": "android.widget.TextView",
+                          "rect": {
+                            "$ref": "$.children[0].children[0].children[0].children[0].children[0].rect"
+                          },
+                          "text": "来啊一起玩",
+                          "windowId": 58971
+                        },
+                        {
+                          "actionList": [
+                            {
+                              "id": 4
+                            },
+                            {
+                              "id": 8
+                            },
+                            {
+                              "id": 64
+                            },
+                            {
+                              "id": 256
+                            },
+                            {
+                              "id": 512
+                            },
+                            {
+                              "id": 131072
+                            },
+                            {
+                              "id": 16908342
+                            }
+                          ],
+                          "children": [],
+                          "className": "android.widget.TextView",
+                          "rect": {
+                            "$ref": "$.children[0].children[0].children[0].children[0].children[0].rect"
+                          },
+                          "text": "上午11:30",
+                          "windowId": 58971
+                        },
+                        {
+                          "actionList": [
+                            {
+                              "id": 1
+                            },
+                            {
+                              "id": 4
+                            },
+                            {
+                              "id": 8
+                            },
+                            {
+                              "id": 16
+                            },
+                            {
+                              "id": 64
+                            },
+                            {
+                              "id": 16908342
+                            }
+                          ],
+                          "children": [],
+                          "className": "android.widget.ImageView",
+                          "rect": {
+                            "$ref": "$.children[0].children[0].children[0].children[0].children[0].rect"
+                          },
+                          "windowId": 58971
+                        },
+                        {
+                          "actionList": [
+                            {
+                              "id": 4
+                            },
+                            {
+                              "id": 8
+                            },
+                            {
+                              "id": 64
+                            },
+                            {
+                              "id": 256
+                            },
+                            {
+                              "id": 512
+                            },
+                            {
+                              "id": 131072
+                            },
+                            {
+                              "id": 16908342
+                            }
+                          ],
+                          "children": [],
+                          "className": "android.widget.TextView",
+                          "rect": {
+                            "$ref": "$.children[0].children[0].children[0].children[0].children[0].rect"
+                          },
+                          "text": "8",
+                          "windowId": 58971
+                        },
+                        {
+                          "actionList": [
+                            {
+                              "id": 4
+                            },
+                            {
+                              "id": 8
+                            },
+                            {
+                              "id": 64
+                            },
+                            {
+                              "id": 256
+                            },
+                            {
+                              "id": 512
+                            },
+                            {
+                              "id": 131072
+                            },
+                            {
+                              "id": 16908342
+                            }
+                          ],
+                          "children": [],
+                          "className": "android.widget.TextView",
+                          "rect": {
+                            "$ref": "$.children[0].children[0].children[0].children[0].children[0].rect"
+                          },
+                          "text": "4",
+                          "windowId": 58971
+                        }
+                      ],
+                      "className": "android.widget.FrameLayout",
+                      "rect": {
+                        "$ref": "$.children[0].children[0].children[0].children[0].children[0].rect"
+                      },
+                      "windowId": 58971
+                    }
+                  ],
+                  "className": "android.widget.LinearLayout",
+                  "rect": {
+                    "$ref": "$.children[0].children[0].children[0].children[0].children[0].rect"
+                  },
+                  "windowId": 58971
+                }
+              ],
+              "className": "android.widget.LinearLayout",
+              "rect": {
+                "$ref": "$.children[0].children[0].children[0].children[0].children[0].rect"
+              },
+              "windowId": 58971
+            },
+            {
+              "actionList": [
+                {
+                  "id": 1
+                },
+                {
+                  "id": 4
+                },
+                {
+                  "id": 8
+                },
+                {
+                  "id": 64
+                },
+                {
+                  "id": 16908342
+                }
+              ],
+              "children": [
+                {
+                  "actionList": [
+                    {
+                      "id": 4
+                    },
+                    {
+                      "id": 8
+                    },
+                    {
+                      "id": 64
+                    },
+                    {
+                      "id": 256
+                    },
+                    {
+                      "id": 512
+                    },
+                    {
+                      "id": 131072
+                    },
+                    {
+                      "id": 16908342
+                    }
+                  ],
+                  "children": [],
+                  "className": "android.widget.TextView",
+                  "rect": {
+                    "$ref": "$.children[0].children[0].children[0].children[0].children[0].rect"
+                  },
+                  "text": "下午4:08",
+                  "windowId": 58971
+                },
+                {
+                  "actionList": [
+                    {
+                      "id": 1
+                    },
+                    {
+                      "id": 4
+                    },
+                    {
+                      "id": 8
+                    },
+                    {
+                      "id": 16
+                    },
+                    {
+                      "id": 32
+                    },
+                    {
+                      "id": 64
+                    },
+                    {
+                      "id": 256
+                    },
+                    {
+                      "id": 512
+                    },
+                    {
+                      "id": 131072
+                    },
+                    {
+                      "id": 16908342
+                    }
+                  ],
+                  "children": [],
+                  "className": "android.widget.TextView",
+                  "rect": {
+                    "$ref": "$.children[0].children[0].children[0].children[0].children[0].rect"
+                  },
+                  "text": {},
+                  "windowId": 58971
+                },
+                {
+                  "actionList": [
+                    {
+                      "id": 1
+                    },
+                    {
+                      "id": 4
+                    },
+                    {
+                      "id": 8
+                    },
+                    {
+                      "id": 16
+                    },
+                    {
+                      "id": 32
+                    },
+                    {
+                      "id": 64
+                    },
+                    {
+                      "id": 16908342
+                    }
+                  ],
+                  "children": [],
+                  "className": "android.widget.ImageView",
+                  "rect": {
+                    "$ref": "$.children[0].children[0].children[0].children[0].children[0].rect"
+                  },
+                  "windowId": 58971
+                }
+              ],
+              "className": "android.widget.RelativeLayout",
+              "rect": {
+                "$ref": "$.children[0].children[0].children[0].children[0].children[0].rect"
+              },
+              "windowId": 58971
+            },
+            {
+              "actionList": [
+                {
+                  "id": 1
+                },
+                {
+                  "id": 4
+                },
+                {
+                  "id": 8
+                },
+                {
+                  "id": 64
+                },
+                {
+                  "id": 16908342
+                }
+              ],
+              "children": [
+                {
+                  "actionList": [
+                    {
+                      "id": 1
+                    },
+                    {
+                      "id": 4
+                    },
+                    {
+                      "id": 8
+                    },
+                    {
+                      "id": 16
+                    },
+                    {
+                      "id": 32
+                    },
+                    {
+                      "id": 64
+                    },
+                    {
+                      "id": 16908342
+                    }
+                  ],
+                  "children": [],
+                  "className": "android.widget.ImageView",
+                  "rect": {
+                    "$ref": "$.children[0].children[0].children[0].children[0].children[0].rect"
+                  },
+                  "windowId": 58971
+                },
+                {
+                  "actionList": [
+                    {
+                      "id": 1
+                    },
+                    {
+                      "id": 4
+                    },
+                    {
+                      "id": 8
+                    },
+                    {
+                      "id": 16
+                    },
+                    {
+                      "id": 32
+                    },
+                    {
+                      "id": 64
+                    },
+                    {
+                      "id": 16908342
+                    }
+                  ],
+                  "children": [
+                    {
+                      "actionList": [
+                        {
+                          "id": 4
+                        },
+                        {
+                          "id": 8
+                        },
+                        {
+                          "id": 64
+                        },
+                        {
+                          "id": 16908342
+                        }
+                      ],
+                      "children": [],
+                      "className": "android.view.View",
+                      "rect": {
+                        "$ref": "$.children[0].children[0].children[0].children[0].children[0].rect"
+                      },
+                      "windowId": 58971
+                    },
+                    {
+                      "actionList": [
+                        {
+                          "id": 4
+                        },
+                        {
+                          "id": 8
+                        },
+                        {
+                          "id": 64
+                        },
+                        {
+                          "id": 256
+                        },
+                        {
+                          "id": 512
+                        },
+                        {
+                          "id": 131072
+                        },
+                        {
+                          "id": 16908342
+                        }
+                      ],
+                      "children": [],
+                      "className": "android.widget.TextView",
+                      "rect": {
+                        "$ref": "$.children[0].children[0].children[0].children[0].children[0].rect"
+                      },
+                      "text": "3\"",
+                      "windowId": 58971
+                    }
+                  ],
+                  "className": "android.widget.RelativeLayout",
+                  "rect": {
+                    "$ref": "$.children[0].children[0].children[0].children[0].children[0].rect"
+                  },
+                  "windowId": 58971
+                },
+                {
+                  "actionList": [
+                    {
+                      "id": 1
+                    },
+                    {
+                      "id": 4
+                    },
+                    {
+                      "id": 8
+                    },
+                    {
+                      "id": 16
+                    },
+                    {
+                      "id": 32
+                    },
+                    {
+                      "id": 64
+                    },
+                    {
+                      "id": 256
+                    },
+                    {
+                      "id": 512
+                    },
+                    {
+                      "id": 131072
+                    },
+                    {
+                      "id": 16908342
+                    }
+                  ],
+                  "children": [],
+                  "className": "android.widget.TextView",
+                  "rect": {
+                    "$ref": "$.children[0].children[0].children[0].children[0].children[0].rect"
+                  },
+                  "text": "你的心工程搞定没有。",
+                  "windowId": 58971
+                }
+              ],
+              "className": "android.widget.RelativeLayout",
+              "rect": {
+                "$ref": "$.children[0].children[0].children[0].children[0].children[0].rect"
+              },
+              "windowId": 58971
+            },
+            {
+              "actionList": [
+                {
+                  "id": 1
+                },
+                {
+                  "id": 4
+                },
+                {
+                  "id": 8
+                },
+                {
+                  "id": 64
+                },
+                {
+                  "id": 16908342
+                }
+              ],
+              "children": [
+                {
+                  "actionList": [
+                    {
+                      "id": 1
+                    },
+                    {
+                      "id": 4
+                    },
+                    {
+                      "id": 8
+                    },
+                    {
+                      "id": 16
+                    },
+                    {
+                      "id": 32
+                    },
+                    {
+                      "id": 64
+                    },
+                    {
+                      "id": 256
+                    },
+                    {
+                      "id": 512
+                    },
+                    {
+                      "id": 131072
+                    },
+                    {
+                      "id": 16908342
+                    }
+                  ],
+                  "children": [],
+                  "className": "android.widget.TextView",
+                  "rect": {
+                    "$ref": "$.children[0].children[0].children[0].children[0].children[0].rect"
+                  },
+                  "text": {},
+                  "windowId": 58971
+                },
+                {
+                  "actionList": [
+                    {
+                      "id": 1
+                    },
+                    {
+                      "id": 4
+                    },
+                    {
+                      "id": 8
+                    },
+                    {
+                      "id": 16
+                    },
+                    {
+                      "id": 32
+                    },
+                    {
+                      "id": 64
+                    },
+                    {
+                      "id": 16908342
+                    }
+                  ],
+                  "children": [],
+                  "className": "android.widget.ImageView",
+                  "rect": {
+                    "$ref": "$.children[0].children[0].children[0].children[0].children[0].rect"
+                  },
+                  "windowId": 58971
+                }
+              ],
+              "className": "android.widget.RelativeLayout",
+              "rect": {
+                "$ref": "$.children[0].children[0].children[0].children[0].children[0].rect"
+              },
+              "windowId": 58971
+            }
+          ],
+          "className": "android.widget.AbsListView",
+          "rect": {
+            "$ref": "$.children[0].children[0].children[0].children[0].children[0].rect"
+          },
+          "windowId": 58971
+        },
+        {
+          "actionList": [
+            {
+              "id": 4
+            },
+            {
+              "id": 8
+            },
+            {
+              "id": 64
+            },
+            {
+              "id": 16908342
+            }
+          ],
+          "children": [],
+          "className": "android.widget.FrameLayout",
+          "rect": {
+            "$ref": "$.children[0].children[0].children[0].children[0].children[0].rect"
+          },
+          "windowId": 58971
+        },
+        {
+          "actionList": [
+            {
+              "id": 1
+            },
+            {
+              "id": 4
+            },
+            {
+              "id": 8
+            },
+            {
+              "id": 64
+            },
+            {
+              "id": 16908342
+            }
+          ],
+          "children": [
+            {
+              "actionList": [
+                {
+                  "id": 1
+                },
+                {
+                  "id": 4
+                },
+                {
+                  "id": 8
+                },
+                {
+                  "id": 16
+                },
+                {
+                  "id": 32
+                },
+                {
+                  "id": 64
+                },
+                {
+                  "id": 2097152
+                },
+                {
+                  "id": 16908342
+                }
+              ],
+              "children": [],
+              "className": "android.widget.EditText",
+              "rect": {
+                "$ref": "$.children[0].children[0].children[0].children[0].children[0].rect"
+              },
+              "text": "",
+              "windowId": 58971
+            }
+          ],
+          "className": "android.widget.FrameLayout",
+          "rect": {
+            "$ref": "$.children[0].children[0].children[0].children[0].children[0].rect"
+          },
+          "windowId": 58971
+        },
+        {
+          "actionList": [
+            {
+              "id": 4
+            },
+            {
+              "id": 8
+            },
+            {
+              "id": 64
+            },
+            {
+              "id": 16908342
+            }
+          ],
+          "children": [
+            {
+              "actionList": [
+                {
+                  "id": 4
+                },
+                {
+                  "id": 8
+                },
+                {
+                  "id": 64
+                },
+                {
+                  "id": 16908342
+                }
+              ],
+              "children": [
+                {
+                  "actionList": [
+                    {
+                      "id": 1
+                    },
+                    {
+                      "id": 4
+                    },
+                    {
+                      "id": 8
+                    },
+                    {
+                      "id": 64
+                    },
+                    {
+                      "id": 256
+                    },
+                    {
+                      "id": 512
+                    },
+                    {
+                      "id": 131072
+                    },
+                    {
+                      "id": 16908342
+                    }
+                  ],
+                  "children": [],
+                  "className": "android.widget.Button",
+                  "rect": {
+                    "$ref": "$.children[0].children[0].children[0].children[0].children[0].rect"
+                  },
+                  "text": "发送",
+                  "windowId": 58971
+                }
+              ],
+              "className": "android.widget.LinearLayout",
+              "rect": {
+                "$ref": "$.children[0].children[0].children[0].children[0].children[0].rect"
+              },
+              "windowId": 58971
+            }
+          ],
+          "className": "android.widget.LinearLayout",
+          "rect": {
+            "$ref": "$.children[0].children[0].children[0].children[0].children[0].rect"
+          },
+          "windowId": 58971
+        },
+        {
+          "actionList": [
+            {
+              "id": 1
+            },
+            {
+              "id": 4
+            },
+            {
+              "id": 8
+            },
+            {
+              "id": 16
+            },
+            {
+              "id": 64
+            },
+            {
+              "id": 16908342
+            }
+          ],
+          "children": [],
+          "className": "android.view.View",
+          "rect": {
+            "$ref": "$.children[0].children[0].children[0].children[0].children[0].rect"
+          },
+          "windowId": 58971
+        },
+        {
+          "actionList": [
+            {
+              "id": 1
+            },
+            {
+              "id": 4
+            },
+            {
+              "id": 8
+            },
+            {
+              "id": 16
+            },
+            {
+              "id": 64
+            },
+            {
+              "id": 16908342
+            }
+          ],
+          "children": [],
+          "className": "android.widget.ImageView",
+          "rect": {
+            "$ref": "$.children[0].children[0].children[0].children[0].children[0].rect"
+          },
+          "windowId": 58971
+        },
+        {
+          "actionList": [
+            {
+              "id": 1
+            },
+            {
+              "id": 4
+            },
+            {
+              "id": 8
+            },
+            {
+              "id": 16
+            },
+            {
+              "id": 64
+            },
+            {
+              "id": 16908342
+            }
+          ],
+          "children": [],
+          "className": "android.widget.ImageView",
+          "rect": {
+            "$ref": "$.children[0].children[0].children[0].children[0].children[0].rect"
+          },
+          "windowId": 58971
+        },
+        {
+          "actionList": [
+            {
+              "id": 1
+            },
+            {
+              "id": 4
+            },
+            {
+              "id": 8
+            },
+            {
+              "id": 16
+            },
+            {
+              "id": 64
+            },
+            {
+              "id": 16908342
+            }
+          ],
+          "children": [],
+          "className": "android.widget.ImageView",
+          "rect": {
+            "$ref": "$.children[0].children[0].children[0].children[0].children[0].rect"
+          },
+          "windowId": 58971
+        },
+        {
+          "actionList": [
+            {
+              "id": 1
+            },
+            {
+              "id": 4
+            },
+            {
+              "id": 8
+            },
+            {
+              "id": 16
+            },
+            {
+              "id": 64
+            },
+            {
+              "id": 16908342
+            }
+          ],
+          "children": [],
+          "className": "android.widget.ImageView",
+          "rect": {
+            "$ref": "$.children[0].children[0].children[0].children[0].children[0].rect"
+          },
+          "windowId": 58971
+        },
+        {
+          "actionList": [
+            {
+              "id": 1
+            },
+            {
+              "id": 4
+            },
+            {
+              "id": 8
+            },
+            {
+              "id": 16
+            },
+            {
+              "id": 64
+            },
+            {
+              "id": 16908342
+            }
+          ],
+          "children": [],
+          "className": "android.widget.ImageView",
+          "rect": {
+            "$ref": "$.children[0].children[0].children[0].children[0].children[0].rect"
+          },
+          "windowId": 58971
+        },
+        {
+          "actionList": [
+            {
+              "id": 1
+            },
+            {
+              "id": 4
+            },
+            {
+              "id": 8
+            },
+            {
+              "id": 16
+            },
+            {
+              "id": 64
+            },
+            {
+              "id": 16908342
+            }
+          ],
+          "children": [],
+          "className": "android.widget.ImageView",
+          "rect": {
+            "$ref": "$.children[0].children[0].children[0].children[0].children[0].rect"
+          },
+          "windowId": 58971
+        },
+        {
+          "actionList": [
+            {
+              "id": 1
+            },
+            {
+              "id": 4
+            },
+            {
+              "id": 8
+            },
+            {
+              "id": 16
+            },
+            {
+              "id": 64
+            },
+            {
+              "id": 16908342
+            }
+          ],
+          "children": [],
+          "className": "android.view.View",
+          "rect": {
+            "$ref": "$.children[0].children[0].children[0].children[0].children[0].rect"
+          },
+          "windowId": 58971
+        },
+        {
+          "actionList": [
+            {
+              "id": 1
+            },
+            {
+              "id": 4
+            },
+            {
+              "id": 8
+            },
+            {
+              "id": 16
+            },
+            {
+              "id": 64
+            },
+            {
+              "id": 16908342
+            }
+          ],
+          "children": [
+            {
+              "actionList": [
+                {
+                  "id": 4
+                },
+                {
+                  "id": 8
+                },
+                {
+                  "id": 64
+                },
+                {
+                  "id": 16908342
+                }
+              ],
+              "children": [
+                {
+                  "actionList": [
+                    {
+                      "id": 4
+                    },
+                    {
+                      "id": 8
+                    },
+                    {
+                      "id": 64
+                    },
+                    {
+                      "id": 16908342
+                    }
+                  ],
+                  "children": [
+                    {
+                      "actionList": [
+                        {
+                          "id": 1
+                        },
+                        {
+                          "id": 4
+                        },
+                        {
+                          "id": 8
+                        },
+                        {
+                          "id": 16
+                        },
+                        {
+                          "id": 64
+                        },
+                        {
+                          "id": 256
+                        },
+                        {
+                          "id": 512
+                        },
+                        {
+                          "id": 131072
+                        },
+                        {
+                          "id": 16908342
+                        }
+                      ],
+                      "children": [],
+                      "className": "android.widget.TextView",
+                      "rect": {
+                        "$ref": "$.children[0].children[0].children[0].children[0].children[0].rect"
+                      },
+                      "text": "炫明",
+                      "windowId": 58971
+                    }
+                  ],
+                  "className": "android.widget.LinearLayout",
+                  "rect": {
+                    "$ref": "$.children[0].children[0].children[0].children[0].children[0].rect"
+                  },
+                  "windowId": 58971
+                },
+                {
+                  "actionList": [
+                    {
+                      "id": 1
+                    },
+                    {
+                      "id": 4
+                    },
+                    {
+                      "id": 8
+                    },
+                    {
+                      "id": 16
+                    },
+                    {
+                      "id": 64
+                    },
+                    {
+                      "id": 16908342
+                    }
+                  ],
+                  "children": [
+                    {
+                      "actionList": [
+                        {
+                          "id": 1
+                        },
+                        {
+                          "id": 4
+                        },
+                        {
+                          "id": 8
+                        },
+                        {
+                          "id": 16
+                        },
+                        {
+                          "id": 64
+                        },
+                        {
+                          "id": 256
+                        },
+                        {
+                          "id": 512
+                        },
+                        {
+                          "id": 131072
+                        },
+                        {
+                          "id": 16908342
+                        }
+                      ],
+                      "children": [],
+                      "className": "android.widget.TextView",
+                      "rect": {
+                        "$ref": "$.children[0].children[0].children[0].children[0].children[0].rect"
+                      },
+                      "text": "TIM忙碌",
+                      "windowId": 58971
+                    }
+                  ],
+                  "className": "android.widget.LinearLayout",
+                  "rect": {
+                    "$ref": "$.children[0].children[0].children[0].children[0].children[0].rect"
+                  },
+                  "windowId": 58971
+                }
+              ],
+              "className": "android.widget.RelativeLayout",
+              "rect": {
+                "$ref": "$.children[0].children[0].children[0].children[0].children[0].rect"
+              },
+              "windowId": 58971
+            },
+            {
+              "actionList": [
+                {
+                  "id": 1
+                },
+                {
+                  "id": 4
+                },
+                {
+                  "id": 8
+                },
+                {
+                  "id": 16
+                },
+                {
+                  "id": 64
+                },
+                {
+                  "id": 256
+                },
+                {
+                  "id": 512
+                },
+                {
+                  "id": 131072
+                },
+                {
+                  "id": 16908342
+                }
+              ],
+              "children": [],
+              "className": "android.widget.LinearLayout",
+              "rect": {
+                "$ref": "$.children[0].children[0].children[0].children[0].children[0].rect"
+              },
+              "windowId": 58971
+            },
+            {
+              "actionList": [
+                {
+                  "id": 4
+                },
+                {
+                  "id": 8
+                },
+                {
+                  "id": 64
+                },
+                {
+                  "id": 16908342
+                }
+              ],
+              "children": [
+                {
+                  "actionList": [
+                    {
+                      "id": 1
+                    },
+                    {
+                      "id": 4
+                    },
+                    {
+                      "id": 8
+                    },
+                    {
+                      "id": 16
+                    },
+                    {
+                      "id": 64
+                    },
+                    {
+                      "id": 256
+                    },
+                    {
+                      "id": 512
+                    },
+                    {
+                      "id": 131072
+                    },
+                    {
+                      "id": 16908342
+                    }
+                  ],
+                  "children": [],
+                  "className": "android.widget.ImageView",
+                  "rect": {
+                    "$ref": "$.children[0].children[0].children[0].children[0].children[0].rect"
+                  },
+                  "windowId": 58971
+                }
+              ],
+              "className": "android.widget.RelativeLayout",
+              "rect": {
+                "$ref": "$.children[0].children[0].children[0].children[0].children[0].rect"
+              },
+              "windowId": 58971
+            },
+            {
+              "actionList": [
+                {
+                  "id": 4
+                },
+                {
+                  "id": 8
+                },
+                {
+                  "id": 64
+                },
+                {
+                  "id": 16908342
+                }
+              ],
+              "children": [
+                {
+                  "actionList": [
+                    {
+                      "id": 1
+                    },
+                    {
+                      "id": 4
+                    },
+                    {
+                      "id": 8
+                    },
+                    {
+                      "id": 16
+                    },
+                    {
+                      "id": 64
+                    },
+                    {
+                      "id": 256
+                    },
+                    {
+                      "id": 512
+                    },
+                    {
+                      "id": 131072
+                    },
+                    {
+                      "id": 16908342
+                    }
+                  ],
+                  "children": [],
+                  "className": "android.widget.ImageView",
+                  "rect": {
+                    "$ref": "$.children[0].children[0].children[0].children[0].children[0].rect"
+                  },
+                  "windowId": 58971
+                }
+              ],
+              "className": "android.widget.RelativeLayout",
+              "rect": {
+                "$ref": "$.children[0].children[0].children[0].children[0].children[0].rect"
+              },
+              "windowId": 58971
+            }
+          ],
+          "className": "android.widget.RelativeLayout",
+          "rect": {
+            "$ref": "$.children[0].children[0].children[0].children[0].children[0].rect"
+          },
+          "windowId": 58971
+        }
+      ],
+      "className": "android.widget.FrameLayout",
+      "rect": {
+        "$ref": "$.children[0].children[0].children[0].children[0].children[0].rect"
+      },
+      "windowId": 58971
+    }
+  ],
+  "className": "android.widget.FrameLayout",
+  "rect": {
+    "$ref": "$.children[0].children[0].children[0].children[0].children[0].rect"
+  },
+  "windowId": 58971
+}
