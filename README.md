@@ -19,4 +19,15 @@
 - 添加远程操作(点击等)
 - python客户端
 - 使用Xposed 来获取数据
+- 类似录屏的功能(记录画面文字布局)
 
+相关:
+- java gui 客户端地址: https://github.com/FormatFa/andCraw_javaCli
+- android 客户端地址: https://github.com/FormatFa/AndCrawClient
+
+
+在局域网中，类似于直播的方式将一台手机的画面文字投放到另一台手机(或者PC)上面
+
+演示，左边为客户端，右边为监控的服务端
+
+![test](README/test.gif)

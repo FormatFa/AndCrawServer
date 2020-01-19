@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">AndCrawServer</string>
     <string name="action_settings">Settings</string>
-    <string name="accessibility_desc">my description</string>
+    <string name="accessibility_desc">AndCrawServer 服务端，需要请开启</string>
 </resources>
